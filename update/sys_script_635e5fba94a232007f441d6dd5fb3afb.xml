@@ -4,9 +4,9 @@
         <abort_action>false</abort_action>
         <access>package_private</access>
         <action_delete>false</action_delete>
-        <action_insert>true</action_insert>
+        <action_insert>false</action_insert>
         <action_query>false</action_query>
-        <action_update>true</action_update>
+        <action_update>false</action_update>
         <active>true</active>
         <add_message>false</add_message>
         <advanced>true</advanced>
@@ -32,7 +32,7 @@
 
 gs.addInfoMessage('Sample BR has run');
 gs.debug('Goodbye');
-gs.debug('Hello');
+gs.debug('Goodbye');
 	
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -51,7 +51,7 @@ gs.debug('Hello');
         <sys_scope display_value="K17">3a8d13ba94a232007f441d6dd5fb3ae8</sys_scope>
         <sys_update_name>sys_script_635e5fba94a232007f441d6dd5fb3afb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-09 18:32:46</sys_updated_on>
+        <sys_updated_on>2017-05-09 18:33:31</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
