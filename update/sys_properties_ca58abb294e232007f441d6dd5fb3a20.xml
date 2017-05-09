@@ -11,7 +11,7 @@
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-09 18:38:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ca58abb294e232007f441d6dd5fb3a20</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_k17.logging.destination</sys_name>
