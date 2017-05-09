@@ -53,7 +53,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-09 17:50:55</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>c6002f3e94a232007f441d6dd5fb3a9d</sys_id>
+        <sys_id>e54467fa7da232007f44ba661d4149fd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_k17_lab</sys_name>
         <sys_package display_value="K17" source="x_snc_k17">3a8d13ba94a232007f441d6dd5fb3ae8</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="K17">3a8d13ba94a232007f441d6dd5fb3ae8</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_k17_lab_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-05-09 18:01:46</sys_updated_on>
+        <sys_updated_on>2017-05-09 18:20:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
